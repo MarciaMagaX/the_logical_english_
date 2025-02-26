@@ -27,13 +27,14 @@ Se quiser clonar este projeto, fique à vontade!
 
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
-💡 Uso
+## 💡 Uso
 O código é bem simples de ser customizado. Basta ter conhecimento básico de código e lógica de programação.
 
-🤝 Contribuições
+## 🤝 Contribuições
 O projeto não está aberto a contribuições, mas ficarei feliz em receber seu feedback.
 
-📞 Contato
+## 📞 Contato
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/marciamagax)
 
 
