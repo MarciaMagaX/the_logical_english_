@@ -65,7 +65,6 @@ The website is divided into:
 ## 📥 Installation  
 If you want to clone this project, feel free to do so!  
 
-```bash
 git clone https://github.com/your-username/your-repository.git
 
 ## 💡 Usage
@@ -75,6 +74,7 @@ The code is very simple to customize. Basic coding knowledge and programming log
 The project is not open to contributions, but I’d be happy to receive your feedback.
 
 ## 📞 Contact
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/marciamagax)
 
 
