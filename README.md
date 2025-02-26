@@ -28,7 +28,13 @@ Se quiser clonar este projeto, fique à vontade!
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
-## Contato
-Segue meu LinkedIn caso queira me contatar:
+💡 Uso
+O código é bem simples de ser customizado. Basta ter conhecimento básico de código e lógica de programação.
+
+🤝 Contribuições
+O projeto não está aberto a contribuições, mas ficarei feliz em receber seu feedback.
+
+📞 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/marciamagax)
+
 
